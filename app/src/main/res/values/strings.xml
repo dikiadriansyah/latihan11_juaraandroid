@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">latihan11_juaraandroid</string>
+
+    <string name="deskripsi_gambar_monas">Deskripsi Gambar Monas</string>
+    <string name="judul_monas">Monas</string>
+    <string name="arsitek_monas">RM Soedarsono </string>
+    <string name="tahun_monas">17 Agustus 1961</string>
+
+
+    <string name="deskripsi_gambar_kotatua">Deskripsi Gambar kotatua</string>
+    <string name="judul_kotatua">Kota Tua</string>
+    <string name="arsitek_kotatua">Ali Sadikin</string>
+    <string name="tahun_kotatua">1972</string>
+
+    <string name="deskripsi_gambar_tmi">Deskripsi Gambar tmi</string>
+    <string name="judul_tmi">Taman Mini</string>
+    <string name="arsitek_tmi">Ida Bagus Tugur</string>
+    <string name="tahun_tmi">1975</string>
+
+    <string name="deskripsi_gambar_ancol">Deskripsi Gambar ancol</string>
+    <string name="judul_ancol">Ancol</string>
+    <string name="arsitek_ancol">Stephen Sanjaya</string>
+    <string name="tahun_ancol">1968</string>
+
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
